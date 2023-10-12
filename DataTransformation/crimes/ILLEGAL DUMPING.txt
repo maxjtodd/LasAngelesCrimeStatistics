@@ -1,0 +1,11 @@
+ILLEGAL DUMPING
+Crm Cd:	949: 89,  
+Crm Cd 1:	949: 89,  
+Crm Cd 2:	998: 2,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+949: 178
+998: 2

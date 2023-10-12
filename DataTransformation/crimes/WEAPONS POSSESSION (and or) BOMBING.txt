@@ -1,0 +1,11 @@
+WEAPONS POSSESSION/BOMBING
+Crm Cd:	756: 32,  
+Crm Cd 1:	756: 32,  
+Crm Cd 2:	998: 16,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+756: 64
+998: 16

@@ -1,0 +1,11 @@
+PETTY THEFT - AUTO REPAIR
+Crm Cd:	446: 7,  
+Crm Cd 1:	446: 7,  
+Crm Cd 2:	998: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+446: 14
+998: 1

@@ -1,0 +1,11 @@
+FALSE POLICE REPORT
+Crm Cd:	439: 143,  
+Crm Cd 1:	439: 143,  
+Crm Cd 2:	998: 6,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+439: 286
+998: 6

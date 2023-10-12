@@ -1,0 +1,12 @@
+BUNCO, ATTEMPT
+Crm Cd:	666: 273,  
+Crm Cd 1:	666: 272,  660: 1,  
+Crm Cd 2:	998: 26,  666: 1,  
+Crm Cd 3:	998: 1,  
+Crm Cd 4:	
+
+TOTALS
+
+666: 546
+998: 27
+660: 1

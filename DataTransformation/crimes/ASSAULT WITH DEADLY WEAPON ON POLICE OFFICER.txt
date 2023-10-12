@@ -1,0 +1,13 @@
+ASSAULT WITH DEADLY WEAPON ON POLICE OFFICER
+Crm Cd:	231: 984,  
+Crm Cd 1:	231: 984,  
+Crm Cd 2:	998: 203,  437: 1,  623: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+231: 1968
+998: 203
+437: 1
+623: 1

@@ -1,0 +1,11 @@
+BRIBERY
+Crm Cd:	942: 7,  
+Crm Cd 1:	942: 7,  
+Crm Cd 2:	998: 3,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+942: 14
+998: 3

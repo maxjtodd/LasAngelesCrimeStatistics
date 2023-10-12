@@ -1,0 +1,12 @@
+COUNTERFEIT
+Crm Cd:	660: 108,  
+Crm Cd 1:	660: 108,  
+Crm Cd 2:	998: 77,  668: 2,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+660: 216
+998: 77
+668: 2

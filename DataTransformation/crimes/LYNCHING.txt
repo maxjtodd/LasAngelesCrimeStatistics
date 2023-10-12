@@ -1,0 +1,11 @@
+LYNCHING
+Crm Cd:	435: 18,  
+Crm Cd 1:	435: 18,  
+Crm Cd 2:	998: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+435: 36
+998: 1

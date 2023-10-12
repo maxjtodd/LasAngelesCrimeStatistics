@@ -1,0 +1,16 @@
+VEHICLE, STOLEN - OTHER (MOTORIZED SCOOTERS, BIKES, ETC)
+Crm Cd:	522: 1577,  
+Crm Cd 1:	522: 1559,  480: 5,  330: 1,  341: 10,  440: 1,  331: 1,  
+Crm Cd 2:	998: 15,  522: 18,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+522: 3154
+998: 15
+341: 10
+480: 5
+330: 1
+440: 1
+331: 1

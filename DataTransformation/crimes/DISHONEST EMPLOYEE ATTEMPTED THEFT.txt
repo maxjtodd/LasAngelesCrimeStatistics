@@ -1,0 +1,10 @@
+DISHONEST EMPLOYEE ATTEMPTED THEFT
+Crm Cd:	445: 2,  
+Crm Cd 1:	445: 2,  
+Crm Cd 2:	
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+445: 4

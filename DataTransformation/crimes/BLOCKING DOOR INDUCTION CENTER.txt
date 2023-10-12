@@ -1,0 +1,10 @@
+BLOCKING DOOR INDUCTION CENTER
+Crm Cd:	432: 5,  
+Crm Cd 1:	432: 5,  
+Crm Cd 2:	
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+432: 10

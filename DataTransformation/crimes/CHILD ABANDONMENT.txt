@@ -1,0 +1,11 @@
+CHILD ABANDONMENT
+Crm Cd:	870: 21,  
+Crm Cd 1:	870: 21,  
+Crm Cd 2:	998: 2,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+870: 42
+998: 2

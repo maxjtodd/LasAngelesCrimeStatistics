@@ -1,0 +1,11 @@
+EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)
+Crm Cd:	668: 3185,  
+Crm Cd 1:	668: 3185,  
+Crm Cd 2:	998: 26,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+668: 6370
+998: 26

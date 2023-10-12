@@ -1,0 +1,16 @@
+HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE
+Crm Cd:	921: 97,  
+Crm Cd 1:	921: 92,  812: 2,  626: 2,  745: 1,  
+Crm Cd 2:	946: 1,  998: 25,  921: 5,  999: 3,  
+Crm Cd 3:	998: 2,  
+Crm Cd 4:	
+
+TOTALS
+
+921: 194
+998: 27
+999: 3
+812: 2
+626: 2
+745: 1
+946: 1

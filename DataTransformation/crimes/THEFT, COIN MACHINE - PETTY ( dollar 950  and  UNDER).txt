@@ -1,0 +1,12 @@
+THEFT, COIN MACHINE - PETTY ($950 & UNDER)
+Crm Cd:	474: 19,  
+Crm Cd 1:	474: 19,  
+Crm Cd 2:	740: 3,  998: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+474: 38
+740: 3
+998: 1

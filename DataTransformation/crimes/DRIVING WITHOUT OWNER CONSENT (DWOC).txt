@@ -1,0 +1,14 @@
+DRIVING WITHOUT OWNER CONSENT (DWOC)
+Crm Cd:	433: 145,  
+Crm Cd 1:	433: 142,  521: 2,  331: 1,  
+Crm Cd 2:	998: 41,  433: 3,  946: 1,  
+Crm Cd 3:	998: 1,  
+Crm Cd 4:	
+
+TOTALS
+
+433: 290
+998: 42
+521: 2
+331: 1
+946: 1

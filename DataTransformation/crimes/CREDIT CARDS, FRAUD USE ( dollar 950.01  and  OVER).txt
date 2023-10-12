@@ -1,0 +1,12 @@
+CREDIT CARDS, FRAUD USE ($950.01 & OVER)
+Crm Cd:	653: 101,  
+Crm Cd 1:	653: 99,  649: 2,  
+Crm Cd 2:	998: 8,  653: 2,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+653: 202
+998: 8
+649: 2

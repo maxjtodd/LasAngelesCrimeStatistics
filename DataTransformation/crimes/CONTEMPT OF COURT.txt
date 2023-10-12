@@ -1,0 +1,13 @@
+CONTEMPT OF COURT
+Crm Cd:	903: 2393,  
+Crm Cd 1:	903: 2393,  
+Crm Cd 2:	998: 74,  946: 1,  999: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+903: 4786
+998: 74
+946: 1
+999: 1

@@ -1,0 +1,11 @@
+BIKE - ATTEMPTED STOLEN
+Crm Cd:	485: 6,  
+Crm Cd 1:	485: 6,  
+Crm Cd 2:	998: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+485: 12
+998: 1

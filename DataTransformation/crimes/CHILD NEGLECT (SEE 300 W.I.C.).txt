@@ -1,0 +1,13 @@
+CHILD NEGLECT (SEE 300 W.I.C.)
+Crm Cd:	237: 1004,  
+Crm Cd 1:	237: 1004,  
+Crm Cd 2:	998: 70,  997: 2,  946: 2,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+237: 2008
+998: 70
+997: 2
+946: 2

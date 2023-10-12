@@ -1,0 +1,12 @@
+PURSE SNATCHING
+Crm Cd:	351: 95,  
+Crm Cd 1:	351: 95,  
+Crm Cd 2:	626: 2,  998: 4,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+351: 190
+998: 4
+626: 2

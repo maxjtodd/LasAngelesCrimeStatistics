@@ -1,0 +1,11 @@
+FIREARMS EMERGENCY PROTECTIVE ORDER (FIREARMS EPO)
+Crm Cd:	904: 4,  
+Crm Cd 1:	904: 4,  
+Crm Cd 2:	998: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+904: 8
+998: 1

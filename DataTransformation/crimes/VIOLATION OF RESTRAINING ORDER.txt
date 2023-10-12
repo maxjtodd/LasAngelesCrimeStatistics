@@ -1,0 +1,15 @@
+VIOLATION OF RESTRAINING ORDER
+Crm Cd:	901: 10223,  
+Crm Cd 1:	901: 10223,  
+Crm Cd 2:	998: 301,  903: 4,  946: 1,  956: 1,  999: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+901: 20446
+998: 301
+903: 4
+946: 1
+956: 1
+999: 1

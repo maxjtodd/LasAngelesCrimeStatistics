@@ -1,0 +1,13 @@
+THEFT FROM PERSON - ATTEMPT
+Crm Cd:	450: 95,  
+Crm Cd 1:	450: 95,  
+Crm Cd 2:	626: 4,  998: 8,  624: 2,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+450: 190
+998: 8
+626: 4
+624: 2

@@ -1,0 +1,12 @@
+FALSE IMPRISONMENT
+Crm Cd:	434: 297,  
+Crm Cd 1:	434: 297,  
+Crm Cd 2:	998: 24,  946: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+434: 594
+998: 24
+946: 1

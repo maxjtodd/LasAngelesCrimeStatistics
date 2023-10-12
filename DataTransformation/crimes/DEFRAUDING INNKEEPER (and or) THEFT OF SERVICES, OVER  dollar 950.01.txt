@@ -1,0 +1,12 @@
+DEFRAUDING INNKEEPER/THEFT OF SERVICES, OVER $950.01
+Crm Cd:	950: 63,  
+Crm Cd 1:	950: 62,  888: 1,  
+Crm Cd 2:	950: 1,  998: 5,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+950: 126
+998: 5
+888: 1

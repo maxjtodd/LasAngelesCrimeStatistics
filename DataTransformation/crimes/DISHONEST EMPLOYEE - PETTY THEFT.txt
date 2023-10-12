@@ -1,0 +1,11 @@
+DISHONEST EMPLOYEE - PETTY THEFT
+Crm Cd:	444: 20,  
+Crm Cd 1:	444: 20,  
+Crm Cd 2:	998: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+444: 40
+998: 1

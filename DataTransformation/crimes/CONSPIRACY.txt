@@ -1,0 +1,11 @@
+CONSPIRACY
+Crm Cd:	944: 17,  
+Crm Cd 1:	944: 17,  
+Crm Cd 2:	998: 5,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+944: 34
+998: 5

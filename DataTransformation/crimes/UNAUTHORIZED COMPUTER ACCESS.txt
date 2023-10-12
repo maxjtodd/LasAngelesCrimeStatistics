@@ -1,0 +1,14 @@
+UNAUTHORIZED COMPUTER ACCESS
+Crm Cd:	661: 466,  
+Crm Cd 1:	661: 466,  
+Crm Cd 2:	940: 4,  946: 2,  998: 10,  956: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+661: 932
+998: 10
+940: 4
+946: 2
+956: 1

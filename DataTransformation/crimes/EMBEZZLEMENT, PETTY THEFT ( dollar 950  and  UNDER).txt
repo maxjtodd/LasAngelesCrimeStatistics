@@ -1,0 +1,12 @@
+EMBEZZLEMENT, PETTY THEFT ($950 & UNDER)
+Crm Cd:	670: 113,  
+Crm Cd 1:	670: 113,  
+Crm Cd 2:	998: 3,  740: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+670: 226
+998: 3
+740: 1

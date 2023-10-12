@@ -1,0 +1,13 @@
+CHILD PORNOGRAPHY
+Crm Cd:	814: 214,  
+Crm Cd 1:	814: 213,  627: 1,  
+Crm Cd 2:	998: 105,  940: 3,  814: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+814: 428
+998: 105
+940: 3
+627: 1

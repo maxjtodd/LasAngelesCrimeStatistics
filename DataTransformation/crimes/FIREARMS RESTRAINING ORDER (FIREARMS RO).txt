@@ -1,0 +1,11 @@
+FIREARMS RESTRAINING ORDER (FIREARMS RO)
+Crm Cd:	906: 4,  
+Crm Cd 1:	906: 4,  
+Crm Cd 2:	998: 2,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+906: 8
+998: 2

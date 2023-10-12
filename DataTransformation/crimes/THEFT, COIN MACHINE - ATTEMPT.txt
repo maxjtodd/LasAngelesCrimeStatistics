@@ -1,0 +1,10 @@
+THEFT, COIN MACHINE - ATTEMPT
+Crm Cd:	475: 5,  
+Crm Cd 1:	475: 5,  
+Crm Cd 2:	
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+475: 10

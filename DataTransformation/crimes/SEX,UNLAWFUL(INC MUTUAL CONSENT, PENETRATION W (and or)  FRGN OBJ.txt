@@ -1,0 +1,15 @@
+SEX,UNLAWFUL(INC MUTUAL CONSENT, PENETRATION W/ FRGN OBJ
+Crm Cd:	810: 872,  
+Crm Cd 1:	810: 871,  627: 1,  
+Crm Cd 2:	812: 47,  998: 76,  993: 2,  860: 2,  810: 1,  
+Crm Cd 3:	998: 11,  
+Crm Cd 4:	
+
+TOTALS
+
+810: 1744
+998: 87
+812: 47
+993: 2
+860: 2
+627: 1

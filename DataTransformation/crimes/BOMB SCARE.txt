@@ -1,0 +1,12 @@
+BOMB SCARE
+Crm Cd:	755: 368,  
+Crm Cd 1:	755: 368,  
+Crm Cd 2:	998: 16,  946: 3,  
+Crm Cd 3:	998: 1,  
+Crm Cd 4:	
+
+TOTALS
+
+755: 736
+998: 17
+946: 3

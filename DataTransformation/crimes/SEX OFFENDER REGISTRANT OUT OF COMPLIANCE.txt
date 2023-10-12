@@ -1,0 +1,11 @@
+SEX OFFENDER REGISTRANT OUT OF COMPLIANCE
+Crm Cd:	845: 807,  
+Crm Cd 1:	845: 807,  
+Crm Cd 2:	998: 7,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+845: 1614
+998: 7

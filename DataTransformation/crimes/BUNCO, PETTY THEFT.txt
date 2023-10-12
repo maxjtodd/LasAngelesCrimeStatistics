@@ -1,0 +1,12 @@
+BUNCO, PETTY THEFT
+Crm Cd:	664: 1759,  
+Crm Cd 1:	664: 1756,  649: 3,  
+Crm Cd 2:	998: 99,  664: 3,  
+Crm Cd 3:	998: 1,  
+Crm Cd 4:	
+
+TOTALS
+
+664: 3518
+998: 100
+649: 3

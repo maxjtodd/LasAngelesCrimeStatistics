@@ -1,0 +1,16 @@
+CHILD ABUSE (PHYSICAL) - AGGRAVATED ASSAULT
+Crm Cd:	235: 534,  
+Crm Cd 1:	235: 534,  
+Crm Cd 2:	998: 37,  624: 2,  812: 11,  946: 1,  930: 1,  761: 1,  
+Crm Cd 3:	998: 3,  
+Crm Cd 4:	
+
+TOTALS
+
+235: 1068
+998: 40
+812: 11
+624: 2
+946: 1
+930: 1
+761: 1

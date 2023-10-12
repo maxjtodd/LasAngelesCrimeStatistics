@@ -1,0 +1,12 @@
+DOCUMENT WORTHLESS ($200 & UNDER)
+Crm Cd:	652: 25,  
+Crm Cd 1:	652: 25,  
+Crm Cd 2:	998: 8,  660: 2,  
+Crm Cd 3:	998: 1,  
+Crm Cd 4:	
+
+TOTALS
+
+652: 50
+998: 9
+660: 2

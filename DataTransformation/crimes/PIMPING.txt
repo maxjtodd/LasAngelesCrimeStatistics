@@ -1,0 +1,11 @@
+PIMPING
+Crm Cd:	805: 121,  
+Crm Cd 1:	805: 121,  
+Crm Cd 2:	998: 59,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+805: 242
+998: 59

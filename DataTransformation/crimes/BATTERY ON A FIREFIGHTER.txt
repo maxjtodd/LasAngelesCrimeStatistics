@@ -1,0 +1,12 @@
+BATTERY ON A FIREFIGHTER
+Crm Cd:	622: 218,  
+Crm Cd 1:	622: 218,  
+Crm Cd 2:	998: 11,  623: 3,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+622: 436
+998: 11
+623: 3

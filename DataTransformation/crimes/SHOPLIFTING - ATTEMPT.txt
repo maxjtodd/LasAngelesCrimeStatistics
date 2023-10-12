@@ -1,0 +1,14 @@
+SHOPLIFTING - ATTEMPT
+Crm Cd:	443: 91,  
+Crm Cd 1:	443: 91,  
+Crm Cd 2:	624: 3,  745: 1,  998: 7,  625: 1,  
+Crm Cd 3:	
+Crm Cd 4:	
+
+TOTALS
+
+443: 182
+998: 7
+624: 3
+745: 1
+625: 1

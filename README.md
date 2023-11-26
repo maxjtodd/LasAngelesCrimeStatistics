@@ -1,5 +1,10 @@
 # Los Angelas Crime
 
+## Running the Code
+
+Packages used (and more) can be downloaded from requirements.txt by using the following command:
+conda create --name <env> --file requirements.txt
+
 ## Data Set Used
 The dataset used for this project is [Crime Data from 2020 to Present](https://datasetsearch.research.google.com/search?src=3&query=crime&docid=L2cvMTFsa3ZiajZjcg%3D%3D)
 
